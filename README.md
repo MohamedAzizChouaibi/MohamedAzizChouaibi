@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Aziz Chouaibi
 
-<!--
-**MohamedAzizChouaibi/MohamedAzizChouaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm an **Engineering Student at INSAT**, specializing in **IIA (Industrial Informatics and Automation)**.  
+I'm passionate about **Deep Learning**, **Computer Vision**, and **Embedded Systems**.  
+I also specialize in **Arduino** and **ESP32** development.  
 
-Here are some ideas to get you started:
+## 💡 Interests  
+- Computer Vision & AI in **medical and industrial automation**  
+- Embedded Systems (Arduino, ESP32)  
+- AI-powered solutions for electronics and automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me  
+Feel free to connect if you're into AI, embedded systems, or just love tech discussions!  
+📩 **Email:** mohamedaziz.chouaibi@insat.ucar.tn  
+
