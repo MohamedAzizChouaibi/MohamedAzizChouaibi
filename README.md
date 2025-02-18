@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Aziz Chouaibi
 
 ## 🚀 About Me  
-I'm an **Engineering Student at INSAT**, specializing in **IIA (Informatique industriel ey Automatique)**.  
+I'm an **Engineering Student at INSAT**, specializing in **IIA (Informatique industriel et Automatique)**.  
 I'm passionate about **Deep Learning**, **Computer Vision**, and **Embedded Systems**.  
 I also specialize in **Arduino** and **ESP32** development.  
 
